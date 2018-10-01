@@ -1,0 +1,19 @@
+{
+  "name": "bcgr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lilchand1975/BCGR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lilchand1975/BCGR/issues"
+  },
+  "homepage": "https://github.com/Lilchand1975/BCGR#readme"
+}

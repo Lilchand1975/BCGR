@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Lilchand1975/BCGR/issues"
   },
-  "homepage": "https://github.com/Lilchand1975/BCGR#readme"
+  "homepage": "https://github.com/Lilchand1975/BCGR#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "path": "^0.12.7"
+  }
 }
